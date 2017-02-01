@@ -1,0 +1,2 @@
+# Mortgage-Valuation-Using-the-BDT-Model
+We use the binomial tree valuation model to value the mortgage over a span of 30 years. The binomial model uses an iterative procedure, allowing for the specification of nodes or points in time, during the time span between the valuation date and expiration date of the mortgage. This allows us to give a mathematical valuation of the mortgage value at each point in time specified by the nodes.
